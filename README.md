@@ -3,7 +3,7 @@ My name is Michał Jabłoński and here you will find my **Frontend projects**,
 ## As you are already here say hello and leave a comment at my [📫 mail](mailto:michal.jablonski097@gmial.com)
 ![Waveex's GitHub stats](https://github-readme-stats.vercel.app/api?username=waveex&show_icons=true&theme=radical)
 
-<table><caption>There few things you know about me? </caption> <tbody><tr>
+<table><caption>There few things you know about me? </caption> <tbody><td> <tr>
   <td style="
     border: none;" align="center" width="100%">
     <h2> What do I do? </h2>
@@ -19,7 +19,7 @@ My name is Michał Jabłoński and here you will find my **Frontend projects**,
  <h2> Which languages do I code? </h2>
   <p>  JavaScrip and React.js</p>
 </td>
-</tr></tbody></table>
+  </tr> </td> <td> <tr> <h2>My skills </h2></tr></td></tbody></table>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waveex&langs_count=4&theme=radical)
 
