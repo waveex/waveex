@@ -44,10 +44,8 @@ style="display:flex;"
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waveex&langs_count=8&theme=radical)
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michjab/)
-
-[![Instagram](https://img.shields.io/badge/-Instagram-24292e?style=flat&labelColor=24292e&logo=instagram&logoColor=black)](https://www.instagram.com/mike.ybl/)
-
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michjab/) 
+[![Instagram](https://img.shields.io/badge/-Instagram-24292e?style=flat&labelColor=fff&logo=instagram&logoColor=fff)](https://www.instagram.com/mike.ybl/) 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:michal.jablonski097@gmail.com)
 
 <!--
