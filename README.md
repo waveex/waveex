@@ -23,7 +23,7 @@ style="display:flex;"
     <li>Figma</li>
 <li>PrestaShop</li>
   </ul> </p>
-</td ></tr><tr>
+</td >
   <td style="
     border: none;" align="center" width="100%">
  <h2>Soft Skills </h2>
