@@ -32,6 +32,7 @@ style="display:flex;"
   <li>Reasoning, problem-solving and ideation and flexibility</li>
   <li>Time Management</li>
   <li>Patience</li>
+  <li>Fast learning and research</li>
   <li>Analytical thinking and innovation</li>
    <li>Resilience, stress tolerance</li>
      <li>Complex problem-solving</li>
