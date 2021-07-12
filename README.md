@@ -4,9 +4,8 @@ My name is Michał Jabłoński and here you will find my **Frontend projects**,
 ![Waveex's GitHub stats](https://github-readme-stats.vercel.app/api?username=waveex&show_icons=true&theme=radical)
 
 
-<table margin="0" padding="0" width="100%" max-width="1000px"> <tbody> <tr>
-  <td style="
-    border: none;" align="center" width="50%">
+<table > <tbody> <tr>
+  <td align="center" width="50%">
     <h2>Hard Skills</h2>
   <p> <ul >
     <li>React.JS</li>
