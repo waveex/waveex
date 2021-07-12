@@ -2,7 +2,7 @@
 My name is Michał Jabłoński and here you will find my **Frontend projects**, 
 ## As you are already here say hello and leave a comment at my [📫 mail](mailto:michal.jablonski097@gmial.com)
 ![Waveex's GitHub stats](https://github-readme-stats.vercel.app/api?username=waveex&show_icons=true&theme=radical)
-
+<div>
 <table><caption>There few things you know about me? </caption> <tbody> <tr>
   <td style="
     border: none;" align="center" width="100%">
@@ -13,13 +13,39 @@ My name is Michał Jabłoński and here you will find my **Frontend projects**,
     border: none;" align="center" width="100%">
  <h2> Who I want to be?</h2>
   <p> I would like to be frontend developer</p>
-</td></tr><tr>
+</td></tr> </tbody></table> 
+<table> <tbody> <tr>
   <td style="
     border: none;" align="center" width="100%">
- <h2> Which languages do I code? </h2>
-  <p>  JavaScrip and React.js</p>
-</td>
-  </tr> </td></tbody></table>
+    <h2>Hard Skills</h2>
+  <p> <ul >
+    <li>React.JS</li>
+    <li>JavaScript ES6+</li>
+    <li>JS: DOM manipulations</li>
+    <li>JS: Local storage</li>
+    <li>Tailwind</li>
+    <li>Semantic HTML</li>
+    <li>SASS</li>
+    <li>Flexbox</li>
+    <li>CSS Grid</li>
+    <li>Figma</li>
+<li>PrestaShop</li>
+  </ul> </p>
+</td ></tr><tr>
+  <td style="
+    border: none;" align="center" width="100%">
+ <h2>Soft Skills </h2>
+ <ul >
+  <li>Communication/li>
+  <li>Teamwork</li>
+  <li>Reasoning, problem-solving and ideation and flexibility</li>
+  <li>Time Management</li>
+  <li>Patience</li>
+  <li>Analytical thinking and innovation</li>
+ 
+</ul>
+</td></tr></tbody></table> 
+</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waveex&langs_count=4&theme=radical)
 
