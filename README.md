@@ -3,8 +3,11 @@ My name is Michał Jabłoński and here you will find my **Frontend projects**,
 ## As you are already here say hello and leave a comment at my [📫 mail](mailto:michal.jablonski097@gmial.com)
 ![Waveex's GitHub stats](https://github-readme-stats.vercel.app/api?username=waveex&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waveex&langs_count=4&theme=radical) ](https://github.com/anuraghazra/github-readme-stats")
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michjab/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/mike.ybl/)
+
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=black)](https://www.instagram.com/mike.ybl/)
+
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:michal.jablonski097@gmail.com)
 
 <!--
