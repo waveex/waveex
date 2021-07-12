@@ -28,7 +28,7 @@ style="display:flex;"
     border: none;" align="center" width="100%">
  <h2>Soft Skills </h2>
  <ul >
-  <li>Communication/li>
+  <li>Communication</li>
   <li>Teamwork</li>
   <li>Reasoning, problem-solving and ideation and flexibility</li>
   <li>Time Management</li>
