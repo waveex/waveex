@@ -2,7 +2,8 @@
 My name is Michał Jabłoński and here you will find my **Frontend projects**, 
 ## As you are already here say hello and leave a comment at my [📫 mail](mailto:michal.jablonski097@gmial.com)
 ![Waveex's GitHub stats](https://github-readme-stats.vercel.app/api?username=waveex&show_icons=true&theme=radical)
-(https://github-readme-stats.vercel.app/api/top-langs/?username=waveex&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waveex&layout=compact)](https://github.com/waveex/github-readme-stats)
+
 
 
 <!--
