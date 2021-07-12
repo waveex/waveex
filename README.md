@@ -17,7 +17,8 @@ My name is Michał Jabłoński and here you will find my **Frontend projects**,
   <p>  JavaScrip and React.js</p>
 </td>
 </tr></tbody></table>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waveex&langs_count=4&theme=radical)](https://github.com/anuraghazra/github-readme-stats")
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waveex&langs_count=4&theme=radical)]
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michjab/)
 
