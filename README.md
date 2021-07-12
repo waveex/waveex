@@ -5,19 +5,19 @@ My name is Michał Jabłoński and here you will find my **Frontend projects**,
 
 <table><caption>There few things you know about me? </caption> <tbody><tr>
   <td align="center" width="33%">
-## What do I do?
+    <h2> What do I do? </h2>
   <p> I'm PrestaShop developer, I'm builing online stores </p>
 </td>
   <td align="center" width="33%">
-## Who I want to be?
+ <h2> Who I want to be?</h2>
   <p I would like to be frontend developer</p>
 </td>
   <td align="center" width="33%">
-## which languages do I code?
+ <h2> which languages do I code? </h2>
   <p JavaScrip and React.js</p>
 </td>
 </tr></tbody></table>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waveex&langs_count=4&theme=radical) ](https://github.com/anuraghazra/github-readme-stats")
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waveex&langs_count=4&theme=radical)](https://github.com/anuraghazra/github-readme-stats")
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michjab/)
 
