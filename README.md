@@ -4,21 +4,24 @@ My name is Michał Jabłoński and here you will find my **Frontend projects**,
 ![Waveex's GitHub stats](https://github-readme-stats.vercel.app/api?username=waveex&show_icons=true&theme=radical)
 
 <table><caption>There few things you know about me? </caption> <tbody><tr>
-  <td border="none" align="center" width="33%">
+  <td style="
+    border: none;" align="center" width="33%">
     <h2> What do I do? </h2>
   <p> I'm PrestaShop developer, I'm builing online stores </p>
 </td >
-  <td border="none" align="center" width="33%">
+  <td style="
+    border: none;" align="center" width="33%">
  <h2> Who I want to be?</h2>
   <p> I would like to be frontend developer</p>
 </td>
-  <td border="none" align="center" width="33%">
+  <td style="
+    border: none;" align="center" width="33%">
  <h2> which languages do I code? </h2>
   <p>  JavaScrip and React.js</p>
 </td>
 </tr></tbody></table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waveex&langs_count=4&theme=radical)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waveex&langs_count=4&theme=radical)
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michjab/)
 
