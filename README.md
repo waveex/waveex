@@ -24,13 +24,7 @@ style="display:flex;"
 <li>PrestaShop</li>
   </ul> </p>
 </td >
-  <td style="
-    display: flex;
-    justify-content: flex-start;
-    flex-direction: column;
-    width: 100%;
-    min-height: 410px;
-" width="50%">
+  <td  width="50%">
  <h2>Soft Skills </h2>
  <ul >
   <li>Communication</li>
@@ -39,7 +33,16 @@ style="display:flex;"
   <li>Time Management</li>
   <li>Patience</li>
   <li>Analytical thinking and innovation</li>
- 
+<li>Communication</li>
+  <li>Teamwork</li>
+  <li>Reasoning, problem-solving and ideation and flexibility</li>
+  <li>Time Management</li>
+  <li>Patience</li>
+  <li>Analytical thinking and innovation</li>
+   <li>Resilience, stress tolerance</li>
+     <li>Complex problem-solving</li>
+     <li>Critical thinking and analysis</li>
+     <li>Creativity, originality and initiative</li>
 </ul>
 </td></tr></tbody></table> 
 </div>
