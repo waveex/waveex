@@ -25,7 +25,12 @@ style="display:flex;"
   </ul> </p>
 </td >
   <td style="
-    border: none;" align="center" width="50%">
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    width: 100%;
+    min-height: 410px;
+" width="50%">
  <h2>Soft Skills </h2>
  <ul >
   <li>Communication</li>
