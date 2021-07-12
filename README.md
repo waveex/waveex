@@ -8,7 +8,7 @@ style="display:flex;"
 >
 <table> <tbody> <tr>
   <td style="
-    border: none;" align="center" width="100%">
+    border: none;" align="center" width="50%">
     <h2>Hard Skills</h2>
   <p> <ul >
     <li>React.JS</li>
@@ -25,7 +25,7 @@ style="display:flex;"
   </ul> </p>
 </td >
   <td style="
-    border: none;" align="center" width="100%">
+    border: none;" align="center" width="50%">
  <h2>Soft Skills </h2>
  <ul >
   <li>Communication</li>
