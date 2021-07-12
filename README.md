@@ -39,7 +39,7 @@ style="display:flex;"
 </td></tr></tbody></table> 
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waveex&langs_count=4&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waveex&langs_count=8&theme=radical)
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michjab/)
 
