@@ -6,7 +6,7 @@ My name is Michał Jabłoński and here you will find my **Frontend projects**,
 <div 
 style="display:flex;"
 >
-<table> <tbody> <tr>
+<table margin="0" padding="0" width="100%" max-width="1000px"> <tbody> <tr>
   <td style="
     border: none;" align="center" width="50%">
     <h2>Hard Skills</h2>
