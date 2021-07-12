@@ -5,18 +5,18 @@ My name is Michał Jabłoński and here you will find my **Frontend projects**,
 
 <table><caption>There few things you know about me? </caption> <tbody><tr>
   <td style="
-    border: none;" align="center" width="33%">
+    border: none;" align="center" width="100%">
     <h2> What do I do? </h2>
   <p> I'm PrestaShop developer, I'm builing online stores </p>
 </td >
   <td style="
-    border: none;" align="center" width="33%">
+    border: none;" align="center" width="100%">
  <h2> Who I want to be?</h2>
   <p> I would like to be frontend developer</p>
 </td>
   <td style="
-    border: none;" align="center" width="33%">
- <h2> which languages do I code? </h2>
+    border: none;" align="center" width="100%">
+ <h2> Which languages do I code? </h2>
   <p>  JavaScrip and React.js</p>
 </td>
 </tr></tbody></table>
