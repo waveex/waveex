@@ -1,7 +1,7 @@
 # Hello 🙋‍♂️ 
 My name is Michał Jabłoński and here you will find my **Frontend projects**, 
-## As soon you are here say hello and leave a comment at my [📫 mail](mailto:michal.jablonski097@gmial.com)
-
+## As you are already here say hello and leave a comment at my [📫 mail](mailto:michal.jablonski097@gmial.com)
+[![Waveex's GitHub stats](https://github-readme-stats.vercel.app/api?username=waveex)]
 
 <!--
 **waveex/waveex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
