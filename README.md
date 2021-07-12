@@ -1,6 +1,6 @@
 #Hello 🙋‍♂️ 
 - My name is Michał Jabłoński and here you will find my **Frontend projects**, 
-###As soon you are here sey hello and leave a comment at my [📫 mail](mailto:michal.jablonski097@gmial.com)
+- ##As soon you are here sey hello and leave a comment at my [📫 mail](mailto:michal.jablonski097@gmial.com)
 
 
 <!--
