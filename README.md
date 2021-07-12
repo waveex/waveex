@@ -29,7 +29,7 @@ style="display:flex;"
  <ul >
   <li>Communication</li>
   <li>Teamwork</li>
-  <li>Reasoning, problem-solving and ideation and flexibility</li>
+  <li>Team Spirit</li>
   <li>Time Management</li>
   <li>Patience</li>
   <li>Fast learning and research</li>
