@@ -40,9 +40,7 @@ style="display:flex;"
      <li>Creativity, originality and initiative</li>
 </ul>
 </td></tr></tbody></table> 
-</div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waveex&langs_count=8&theme=radical)
+</div>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waveex&langs_count=8&theme=radical)
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michjab/) 
 [![Instagram](https://img.shields.io/badge/-Instagram-24292e?style=flat&labelColor=333&logo=instagram&logoColor=fff)](https://www.instagram.com/mike.ybl/) 
