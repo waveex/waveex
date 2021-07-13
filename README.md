@@ -16,9 +16,6 @@ My name is Michał Jabłoński and here you will find my **Frontend projects**,
 |        CSS Grid                                                            |     Critical thinking and analysis                                                               |
 |         Figma                                                              | Creativity, originality and initiative                                                           |
 |       PrestaShop                                                           |                                                                                                  |
-
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waveex&langs_count=8&theme=radical)
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michjab/) 
