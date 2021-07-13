@@ -20,20 +20,19 @@ My name is Michał Jabłoński and here you will find my **Frontend projects**,
 <li>PrestaShop</li>
   </ul> 
 </td >
-  <td  width="50%">
+  <td align="center" width="50%">
  <h2>Soft Skills </h2>
  <ul >
   <li>Communication</li>
   <li>Teamwork</li>
-
   <li>Time Management</li>
   <li>Patience</li>
   <li>Fast learning and research</li>
   <li>Analytical thinking and innovation</li>
-   <li>Resilience, stress tolerance</li>
-     <li>Complex problem-solving</li>
-     <li>Critical thinking and analysis</li>
-     <li>Creativity, originality and initiative</li>
+  <li>Resilience, stress tolerance</li>
+  <li>Complex problem-solving</li>
+  <li>Critical thinking and analysis</li>
+  <li>Creativity, originality and initiative</li>
 </ul>
 </td></tr></tbody></table> 
 
