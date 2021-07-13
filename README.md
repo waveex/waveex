@@ -6,7 +6,7 @@ My name is Michał Jabłoński and here you will find my **Frontend projects**,
 <table > <tbody> <tr>
   <td align="center" width="50%">
     <h2>Hard Skills</h2>
-  <p> <ul >
+  <ul >
     <li>React.JS</li>
     <li>JavaScript ES6+</li>
     <li>JS: DOM manipulations</li>
@@ -18,7 +18,7 @@ My name is Michał Jabłoński and here you will find my **Frontend projects**,
     <li>CSS Grid</li>
     <li>Figma</li>
 <li>PrestaShop</li>
-  </ul> </p>
+  </ul> 
 </td >
   <td  width="50%">
  <h2>Soft Skills </h2>
