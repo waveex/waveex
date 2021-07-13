@@ -36,6 +36,7 @@ My name is Michał Jabłoński and here you will find my **Frontend projects**,
 </ul>
 </td></tr></tbody></table> 
 
+
 | <h2>Soft Skills </h2> |          <h2>Soft Skills </h2>         |
 |:---------------------:|:--------------------------------------:|
 |        React.JS       |              Communication             |
@@ -49,6 +50,7 @@ My name is Michał Jabłoński and here you will find my **Frontend projects**,
 |        CSS Grid       |     Critical thinking and analysis     |
 |         Figma         | Creativity, originality and initiative |
 |       PrestaShop      |                                        |
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waveex&langs_count=8&theme=radical)
