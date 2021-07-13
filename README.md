@@ -15,7 +15,9 @@ My name is Michał Jabłoński and here you will find my **Frontend projects**,
 |        Flexbox                                                             |         Complex problem-solving                                                                  |
 |        CSS Grid                                                            |     Critical thinking and analysis                                                               |
 |         Figma                                                              | Creativity, originality and initiative                                                           |
-|       PrestaShop                                                           |                                                                                                  |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waveex&langs_count=8&theme=radical)
+|       PrestaShop                                                           |                                                                                                  |
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waveex&langs_count=8&theme=radical)
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michjab/) 
 [![Instagram](https://img.shields.io/badge/-Instagram-24292e?style=flat&labelColor=333&logo=instagram&logoColor=fff)](https://www.instagram.com/mike.ybl/) 
