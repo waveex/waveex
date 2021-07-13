@@ -3,53 +3,19 @@ My name is Michał Jabłoński and here you will find my **Frontend projects**,
 ## As you are already here say hello and leave a comment at my [📫 mail](mailto:michal.jablonski097@gmial.com)
 
 
-<table > <tbody> <tr>
-  <td align="center" width="50%">
-    <h2>Hard Skills</h2>
-  <ul >
-    <li>React.JS</li>
-    <li>JavaScript ES6+</li>
-    <li>JS: DOM manipulations</li>
-    <li>JS: Local storage</li>
-    <li>Tailwind</li>
-    <li>Semantic HTML</li>
-    <li>SASS</li>
-    <li>Flexbox</li>
-    <li>CSS Grid</li>
-    <li>Figma</li>
-<li>PrestaShop</li>
-  </ul> 
-</td >
-  <td align="center" width="50%">
- <h2>Soft Skills </h2>
- <ul >
-  <li>Communication</li>
-  <li>Teamwork</li>
-  <li>Time Management</li>
-  <li>Patience</li>
-  <li>Fast learning and research</li>
-  <li>Analytical thinking and innovation</li>
-  <li>Resilience, stress tolerance</li>
-  <li>Complex problem-solving</li>
-  <li>Critical thinking and analysis</li>
-  <li>Creativity, originality and initiative</li>
-</ul>
-</td></tr></tbody></table> 
-
-
-| <h2>Soft Skills </h2> |          <h2>Soft Skills </h2>         |
-|:---------------------:|:--------------------------------------:|
-|        React.JS       |              Communication             |
-|    JavaScript ES6+    |                Teamwork                |
-| JS: DOM manipulations |             Time Management            |
-|   JS: Local storage   |                Patience                |
-|        Tailwind       |       Fast learning and research       |
-|     Semantic HTML     |   Analytical thinking and innovation   |
-|          SASS         |      Resilience, stress tolerance      |
-|        Flexbox        |         Complex problem-solving        |
-|        CSS Grid       |     Critical thinking and analysis     |
-|         Figma         | Creativity, originality and initiative |
-|       PrestaShop      |                                        |
+| <h2>Hard Skills </h2>                                                      |          <h2>Soft Skills </h2>                                                                   |
+|:--------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|
+|        React.JS                                                            |              Communication                                                                       |
+|    JavaScript ES6+                                                         |                Teamwork                                                                          |
+| JS: DOM manipulations                                                      |             Time Management                                                                      |
+|   JS: Local storage                                                        |                Patience                                                                          |
+|        Tailwind                                                            |       Fast learning and research                                                                 |
+|     Semantic HTML                                                          |   Analytical thinking and innovation                                                             |
+|          SASS                                                              |      Resilience, stress tolerance                                                                |
+|        Flexbox                                                             |         Complex problem-solving                                                                  |
+|        CSS Grid                                                            |     Critical thinking and analysis                                                               |
+|         Figma                                                              | Creativity, originality and initiative                                                           |
+|       PrestaShop                                                           |                                                                                                  |
 
 
 
