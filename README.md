@@ -2,7 +2,7 @@
 My name is Michał Jabłoński and here you will find my **Frontend projects**, 
 ## As you are already here say hello and leave a comment at my [📫 mail](mailto:michal.jablonski097@gmial.com)
 
-| <h2>Soft Skills </h2> |          <h2>Soft Skills </h2>         |
+| <h2>Hard Skills </h2> |          <h2>Soft Skills </h2>         |
 |:---------------------:|:--------------------------------------:|
 |        React.JS       |              Communication             |
 |    JavaScript ES6+    |                Teamwork                |
