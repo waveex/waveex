@@ -4,7 +4,8 @@ My name is Michał Jabłoński and here you will find my **Frontend projects**,
 
 | <h2>Hard Skills </h2> |          <h2>Soft Skills </h2>         |
 |:---------------------:|:--------------------------------------:|
-|        React.JS       |              Communication             |
+|          Vue          |              Communication             |
+|        React.JS       |           Task time estimating         |
 |    JavaScript ES6+    |                Teamwork                |
 | JS: DOM manipulations |             Time Management            |
 |   JS: Local storage   |                Patience                |
